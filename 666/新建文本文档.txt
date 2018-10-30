@@ -1,0 +1,40 @@
+角色
+github账号：
+faqihou
+876744269@qq.com
+justforwork66
+
+
+
+服务商       侯氏集团   18866660002  性质分类推广公司   HSJT（对应机构   医佳医投资有限公司，渭南市医佳医管理有限公司）
+
+业务代表     侯氏代表   18866660001  HSDB
+
+
+服务商业务代表   集团代表 	18866660003 
+
+
+总部空费人员  18866660004
+
+总不合规    18866660005
+
+总部运营   18866660006
+
+
+
+csp机构关联协议不可以删除
+
+
+清单审批打印修改
+
+13826342585
+http://192.168.0.110:8002
+http://114.215.31.192:8002
+http://192.168.0.110:8002/swagger/index.html
+
+select name from BaseEnterpriseinformations group by Name having count(name)>1
+
+
+gyyx   admin  yxt0620a?
+
+15300001111   123qwe
